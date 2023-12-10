@@ -12,5 +12,8 @@ While the model's predictive power is arguably OK (Best WER 33%), it is nowhere 
 ### Links to the huggingface spaces app
 https://huggingface.co/spaces/karl-sim/ID2223-lab2
 
+### Blog post explaining pipeline
+https://huggingface.co/blog/fine-tune-whisper
+
 ### Dataset
 https://commonvoice.mozilla.org/sv-SE/datasets
